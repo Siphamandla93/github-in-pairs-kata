@@ -1,8 +1,13 @@
 h1{
   background-color: red;
 }
+<<<<<<< HEAD
 .theMessage{
   height: 5em;
   width: 10em;
   color: blue;
+=======
+.messageTwo{
+    background-color: blue;
+>>>>>>> 26b5b018ed36a45ec4452ed81f840757b6d0567d
 }
